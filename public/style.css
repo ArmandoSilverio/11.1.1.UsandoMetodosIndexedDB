@@ -1,0 +1,36 @@
+#cajaformulario {
+    float: left;
+    border: 2px solid #999999;
+    padding: 20px;
+    background-color: rgba(116, 224, 28, 0.842);
+    font-size: 20px;
+    text-align: center;
+}
+
+#clave,
+#titulo,
+#fecha {
+    width: 200px;
+    background-color: rgba(212, 165, 216, 0.863);
+}
+
+#grabar {
+    width: 200px;
+    height: 40px;
+    background-color: cyan;
+    font-size: 20px;
+}
+
+#cajadatos {
+    float: left;
+    margin-left: 20px;
+    padding: 20px;
+    border: 2px solid #999999;
+    width: 400px;
+    background-color: rgb(248, 234, 42);
+}
+
+#cajadatos>div {
+    padding: 5px;
+    border-bottom: 1px solid #999999;
+}
